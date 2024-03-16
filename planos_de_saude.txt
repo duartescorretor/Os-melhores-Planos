@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planos de Saúde - Promoções e Ofertas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .promo {
+            background-color: #ffc107;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .promo h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            color: #333;
+        }
+
+        footer {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Planos de Saúde</h1>
+    </header>
+
+    <div class="container">
+        <div class="promo">
+            <h2>Humana Saúde</h2>
+            <p>A Humana Saúde oferece uma ampla gama de planos para atender às suas necessidades médicas, com cobertura nacional e uma rede de hospitais de qualidade.</p>
+        </div>
+
+        <div class="promo">
+            <h2>Unimed</h2>
+            <p>A Unimed é uma das maiores operadoras de planos de saúde do país, oferecendo uma variedade de opções para indivíduos e empresas, com cobertura abrangente e serviços de qualidade.</p>
+        </div>
+
+        <div class="promo">
+            <h2>Bradesco Saúde</h2>
+            <p>Com a Bradesco Saúde, você tem acesso a uma ampla rede de hospitais e clínicas, além de benefícios exclusivos e serviços personalizados para garantir o melhor cuidado de saúde para você e sua família.</p>
+        </div>
+
+        <div class="promo">
+            <h2>Hapvida</h2>
+            <p>A Hapvida oferece planos de saúde acessíveis e de qualidade, com uma extensa rede de atendimento e uma variedade de benefícios para garantir o bem-estar e a tranquilidade dos seus beneficiários.</p>
+        </div>
+
+        <div class="promo">
+            <h2>Amil</h2>
+            <p>A Amil é uma das principais operadoras de planos de saúde do país, oferecendo uma ampla gama de serviços médicos e hospitalares, com cobertura nacional e uma rede credenciada de alta qualidade.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Planos de Saúde - Promoções e Ofertas</p>
+    </footer>
+</body>
+
+</html>
